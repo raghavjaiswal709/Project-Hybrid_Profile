@@ -1,4 +1,4 @@
-# APM-TOP-K-STOCKS: Project Documentation
+# Hybrid-Profile: Project Documentation
 
 ## Overview
 
