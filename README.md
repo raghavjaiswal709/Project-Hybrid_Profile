@@ -2,7 +2,7 @@
 
 ## Overview
 
-**APM-TOP-K-STOCKS** is a full-stack, monorepo-based stock analytics and dashboard platform. It is designed to provide real-time and historical market data, stock recommendations, and advanced charting for Indian equities. The project is modular, scalable, and leverages modern web technologies, microservices, and data pipelines.
+**Hybrid-Profile** is a full-stack, monorepo-based stock analytics and dashboard platform. It is designed to provide real-time and historical market data, stock recommendations, and advanced charting for Indian equities. The project is modular, scalable, and leverages modern web technologies, microservices, and data pipelines.
 
 ![Screenshot 1](https://ik.imagekit.io/b8csj3eex/images/Hybrid/Screenshot%202025-08-13%20211551.png?updatedAt=1755100332331)
 
